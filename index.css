@@ -1,0 +1,83 @@
+#content{
+	text-align: center;
+	padding-top: 25%;
+}
+
+body{
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://scontent.fcac1-1.fna.fbcdn.net/v/t31.0-8/20117140_1373335222756172_1148210176210945186_o.jpg?_nc_cat=107&_nc_ht=scontent.fcac1-1.fna&oh=66c6c80201c79b1a51f0fc1d2b02c3e6&oe=5D11BD1F);
+	background-position: center;
+	background-size: cover;
+	font-family: Lato;
+	
+}
+
+#content h1{
+	color: #fff;
+	font-weight: 700;
+	font-size: 5em;
+	text-shadow: 4px 4px 3px #000;
+}
+
+#content h3{
+	color: white;
+	text-shadow: 3px 3px 3px #000;
+}
+
+html{
+	height: 100%;
+}
+
+hr{
+	width: 400px;
+}
+
+#content i{
+	font-size: 1.3em;
+	color: darkgreen;
+	padding-right: 5px;
+}
+
+.navbar-default{
+	height: 70px;
+	background-color: rgba(95, 252, 153, 0);
+	border: 0px;
+}
+
+.navbar-default .navbar-nav>li>a{
+	font-size: 30px;
+	font-family: Lato;
+	font-style: italic;
+	padding: 0px;
+	margin-top: 45px;
+	margin-right: 20px;
+	color: #fff;
+	text-shadow: 3px 3px 3px #000;
+}
+
+#logo{
+	padding-right: 15px;
+}
+
+.navbar-nav .active a{
+	font-size: 30px;
+	font-family: Lato;
+	font-style: italic;
+	padding: 0px;
+	margin-top: 45px;
+	margin-right: 20px;
+	color: #fff;
+	text-shadow: 3px 3px 3px #000;
+	background-color:transparent;
+
+}
+.navbar-default .navbar-nav .porfavor >li>a{
+	color: white;
+	font-size: 30px;
+}
+
+.btn-success{
+	color: darkgreen;
+	font-weight: 800;
+	border:darkgreen 2px solid;
+}
+
