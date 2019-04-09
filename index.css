@@ -81,3 +81,8 @@ hr{
 	border:darkgreen 2px solid;
 }
 
+.navbar-nav>li>a:hover{
+	color: green !important;
+
+}
+
